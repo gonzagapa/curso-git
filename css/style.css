@@ -6,7 +6,15 @@ body{
     margin: 0;
     font-size: 16px;
 }
-
+header{
+    background-color: lightcoral;
+    color: white;
+    width: 100%;
+}
+header h1{
+    margin: 0;
+    text-align: center;
+}
 main{
     border: 1px solid #000;
     padding: 0.8em 1.5em;
